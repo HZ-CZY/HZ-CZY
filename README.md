@@ -1,4 +1,4 @@
-### 高二学生 · 惠州 · 边缘 AI 与嵌入式
+### 高二学生 · 惠州 · 线上网站、边缘 AI 与嵌入式
 
 做能跑起来的东西。方向是端侧视觉识别、单片机控制，以及把数据送到一个别人看得懂的界面上。
 
@@ -14,10 +14,10 @@
 
 深圳湾候鸟迁徙与观鸟数据地图。Vue 3 + 高德 + Three.js；三源观测数据（iNaturalist / GBIF / eBird）；用 Canvas 覆盖层绕开 AMap 覆盖物卡顿。
 
-**刻忆 keyi** — [keyi](https://github.com/HZ-CZY/keyi)
+**刻忆 keyi** — [keyi](https://github.com/HZ-CZY/keyi) ／ [在线访问](https://iamczy.cn/)
 
 基于 Anki 魔改的 Web 端间隔学习平台。TypeScript。
 
 ---
 
-另有部署在线的 [诗云](https://czynavigation.iamczy.cn/poetry/)（古诗词可视化）。
+
