@@ -19,7 +19,7 @@
 
 #### 东江羽迹GO（原「羽迹 · 深湾」）
 
-[在线访问](https://czynavigation.iamczy.cn/birds/) ／ [Hongshuling](https://github.com/HZ-CZY/Hongshuling) ／ [DongJiang-YujiGo](https://github.com/HZ-CZY/DongJiang-YujiGo)
+[在线访问](https://czynavigation.iamczy.cn/) ／ [Hongshuling](https://github.com/HZ-CZY/Hongshuling) ／ [DongJiang-YujiGo](https://github.com/HZ-CZY/DongJiang-YujiGo)
 
 候鸟迁徙与观鸟数据地图，从深圳湾起步，现并入东江项目。Vue 3 + 高德 + Three.js；三源观测数据（iNaturalist / GBIF / eBird）；用 Canvas 覆盖层绕开 AMap 覆盖物卡顿。
 
