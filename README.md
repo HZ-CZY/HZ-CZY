@@ -37,4 +37,4 @@
 
 ---
 
-[博客](https://www.iamczy.cn/) ／ [keyi](https://iamczy.cn/) ／ [邮箱](mailto:1712863375@qq.com)
+[博客](https://www.iamczy.cn/) ／ [keyi](https://iamczy.cn/)
